@@ -16,7 +16,7 @@
     "test-win": "npm run pretest && percy exec -- wdio.cmd wdio.conf.js"
   },
   "dependencies": {
-    "@percy/agent": "^0.1.17"
+    "@percy/agent": "^0.2.2-beta.4"
   },
   "devDependencies": {
     "@wdio/cli": "^5.7.4",
